@@ -31,48 +31,36 @@ I'm a young student with a lot of ambitions and projects ongoing ! I mainly work
 
 ## ☁️ - Projets <img src="https://cdn.7tv.app/emote/01K7Y94H1E1VFQP2291Z26H17M/1x.avif">
 
-<!--
-  Pin pour chaque projet. Format à dupliquer :
 
-    <a href="https://github.com/NepNath/NOM_DU_REPO">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NepNath&repo=NOM_DU_REPO&theme=radical&hide_border=true" />
-    </a>
 
-  Si un projet est sous une orga GitHub, remplace username=NepNath par
-  username=NomDeLOrga (et adapte aussi l'URL du <a href>).
-  Remplace REPO_1...REPO_7 par les vrais noms de repos.
--->
-
-<p align="center">
-  <a href="https://github.com/NepNath/VoidPiercer-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NepNath&repo=VoidPiercer-Project&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/NepNath/GlorpDodgerPro3D-RTX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NepNath&repo=GlorpDodgerPro3D-RTX&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NepNath/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NepNath&repo=REPO_3&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/NepNath/REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NepNath&repo=REPO_4&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NepNath/REPO_5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NepNath&repo=REPO_5&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/NepNath/REPO_6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NepNath&repo=REPO_6&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NepNath/REPO_7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NepNath&repo=REPO_7&theme=radical&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/NepNath/VoidPiercer-Project">
+        <img src="https://opengraph.githubassets.com/1/NepNath/VoidPiercer-Project" width="100%"/>
+      </a>
+      <br>
+      <br>
+        <img src="https://img.shields.io/badge/-Void%20Piercer-FF1F8F?style=for-the-badge&labelColor=1A1B27"/>
+        <img src="https://img.shields.io/badge/Status-WIP-ffd621?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Engine-Unity%206.0-000000?style=for-the-badge&logo=unity"/>
+        <img src="https://img.shields.io/badge/Last%20Release%20Version-0.0.0-0aa5ff?style=for-the-badge"/>
+      <br>
+      <sub><i> ℹ️ Roguelike Fast-FPS - Ultrakill / Doom inspired</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/NepNath/GlorpDodgerPro3D-RTX">
+        <img src="https://opengraph.githubassets.com/1/NepNath/GlorpDodgerPro3D-RTX" width="100%"/>
+      </a>
+      <br>
+      <br>
+        <img src="https://img.shields.io/badge/Glorp%20Pro%20Dodger-0dc700?style=for-the-badge&labelColor=0dc700"/>
+        <img src="https://img.shields.io/badge/Status-Stopped-c76700?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Engine-Unity%206.0-000000?style=for-the-badge&logo=unity"/>
+        <img src="https://img.shields.io/badge/Last%20Release%20Version-0.2.6-0aa5ff?style=for-the-badge"/>
+      <br>
+      <sub><i> ℹ️ Projectile Dodging game - School project</i></sub>
+    </td>
+  </tr>
+</table>
 
