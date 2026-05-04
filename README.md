@@ -1,103 +1,35 @@
-<!-- ================================================================ -->
-<!--  Profil GitHub : NepNath                                          -->
-<!--  Thème : Radical (rose/cyan néon) - vibes gamer / humour quirky   -->
-<!--  Emplacement : ce fichier vit dans le repo NepNath/NepNath        -->
-<!-- ================================================================ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=AF00F7&background=FF112700&width=435&lines=NepNath%2C+Indie+Game+Programmer;NepNath%2C+Silly+goober" alt="Typing SVG" />
+</a>
 
+## 👤 - Who Am I ? <img src="https://cdn.7tv.app/emote/01J6YGZ2KG00083R3D97JFVVP4/1x.avif">
 
-<!-- ======================== BANNIÈRE TYPING ======================= -->
-<!--
-  Modifie le paramètre "lines=" pour personnaliser tes punchlines.
-  Format : phrases séparées par ;  espaces remplacés par +
-           caractères non-ASCII URL-encodés (ex: 遊創 = %E9%81%8A%E5%89%B5)
-  Conseil : 3 à 5 phrases courtes (< 30 caractères) pour la lisibilité.
-
-  Idées en stock à piocher / mixer :
-    - "Indie game dev"
-    - "Sysadmin gone rogue"
-    - "Press START to continue"
-    - "404: free time not found"
-    - "git push --force on Friday"
-    - "Making games out of spite"
--->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=AF00F7&background=FF112700&width=435&lines=NepNath%2C+Silly+goober" alt="Typing SVG" /></a>
+I'm a young student with a lot of ambitions and projects ongoing ! I mainly work on Unity and sometimes a few JavaScript projects.
 
 ---
 
-## 🎮 whoami
-
-```bash
-$ whoami
-NepNath — indie game dev × sysadmin
-$ uptime
-running on caffeine since forever
-$ ls ~/projects | wc -l
-7 # see below, allegedly
-```
-
-> Game dev by day, sysadmin by night, professional bug-creator 24/7
-
-- 🕹️ Currently juggling **~7 indie projects** (yes, that's how I sleep at night)
-- 🛠️ I break Active Directory so you don't have to
-- 💥 My code compiles on the third try (statistically)
-- 🐛 *"It's not a bug, it's an emergent feature"*
-
-<!--
-  Personnalise les bullets selon ton vibe du moment.
-  Patterns qui matchent l'humour/quirky :
-    - stats absurdes (taux de café, ratio "ça marche chez moi")
-    - références gaming (achievements, easter eggs, lore)
-    - auto-dérision dev (Stack Overflow, segfaults, dependency hell)
--->
-
----
-
-## 🛠️ Stack
+## 🗒️ - Languages and Softwares <img src="https://cdn.7tv.app/emote/01FF3R5C30000FF5VVCKV49G6J/1x.avif"> <img src="https://cdn.7tv.app/emote/01FHFKYWHG00007JF8Q9REQ0HZ/1x.avif">
 
 <p align="center">
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=FF1F8F" alt="JetBrains"/>
+  <img src="https://img.shields.io/badge/S%26Box-000000?style=for-the-badge&logo=sourceengine&logoColor=white&labelColor=1E88E5" alt="S&Box"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
-
-<!--
-  Pour ajouter d'autres badges plus tard, format :
-    <img src="https://img.shields.io/badge/{LABEL}-{HEX}?style=for-the-badge&logo={SLUG}&logoColor=white"/>
-  - {LABEL}  : texte affiché (encoder # = %23, espaces = %20)
-  - {HEX}    : couleur de fond, sans #
-  - {SLUG}   : slug logo, dispo sur https://simpleicons.org
-  Quelques exemples prêts à coller :
-    Node.js  : Node.js-339933        | logo=nodedotjs
-    JS       : JavaScript-F7DF1E     | logo=javascript&logoColor=black
-    HTML5    : HTML5-E34F26          | logo=html5
-    CSS3     : CSS3-1572B6           | logo=css3
-    Git      : Git-F05032            | logo=git
-    Linux    : Linux-FCC624          | logo=linux&logoColor=black
-    Bash     : Bash-4EAA25           | logo=gnubash
--->
 
 ---
 
-## 📊 Stats
+## 📊 - Stats <img src="https://cdn.7tv.app/emote/01HWVAX24R00025GNME6G25QKK/1x.avif">
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NepNath&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NepNath&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
+  <img src="https://streak-stats.demolab.com/?user=NepNath&theme=radical&hide_border=true" alt="GitHub Streak"/>   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NepNath&bg_color=1A1B27&color=FE428E&line=FE428E&point=A9FEF7&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity Graph"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NepNath&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<!--
-  Paramètres utiles à connaître :
-    &hide=html,css            → exclure des langages des stats
-    &exclude_repo=repo1,repo2 → ignorer certains repos dans top-langs
-    &include_all_commits=true → compter tous les commits (pas que les 12 derniers mois)
--->
 
 ---
 
-## 🎯 Projets
+## ☁️ - Projets <img src="https://cdn.7tv.app/emote/01K7Y94H1E1VFQP2291Z26H17M/1x.avif">
 
 <!--
   Pin pour chaque projet. Format à dupliquer :
@@ -144,27 +76,3 @@ $ ls ~/projects | wc -l
   </a>
 </p>
 
----
-
-## 📈 Activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NepNath&bg_color=1A1B27&color=FE428E&line=FE428E&point=A9FEF7&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity Graph"/>
-</p>
-
-<!--
-  Aucun workflow requis : l'image est générée à la volée côté serveur
-  à chaque chargement de la page (comme les stats cards plus haut).
-
-  Couleurs reprises de la palette radical :
-    bg_color=1A1B27  → fond
-    color=FE428E     → texte / titre (rose)
-    line=FE428E      → ligne rose
-    point=A9FEF7     → points cyan
-
-  Autres params utiles :
-    &area=true              → remplit la zone sous la courbe (look plus dense)
-    &custom_title=...       → titre affiché en haut du graph
-    &days=30                → nombre de jours affichés (default: 31)
-    &theme=tokyo-night      → ou un thème nommé si tu préfères
--->
