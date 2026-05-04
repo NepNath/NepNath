@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=NepNath&fontAlign=50&fontAlignY=40&color=0:1A1B27,50:9B5DE5,100:FF1F8F&fontColor=FFFFFF&fontSize=60&fontName=VT323)
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=AF00F7&background=FF112700&width=435&lines=NepNath%2C+Indie+Game+Programmer;NepNath%2C+Silly+goober" alt="Typing SVG" />
 </a>
@@ -64,3 +65,4 @@ I'm a young student with a lot of ambitions and projects ongoing ! I mainly work
   </tr>
 </table>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF1F8F,50:9B5DE5,100:1A1B27)
