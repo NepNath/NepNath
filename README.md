@@ -16,7 +16,9 @@ I'm a young student with a lot of ambitions and projects ongoing ! I mainly work
   <img src="https://img.shields.io/badge/S%26Box-000000?style=for-the-badge&logo=sourceengine&logoColor=white&labelColor=1E88E5" alt="S&Box"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=black&labelColor=F54927" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white&labelColor=2965f1" alt="CSS"/>
 </p>
 
 ---
