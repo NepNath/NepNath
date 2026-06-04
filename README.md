@@ -64,6 +64,19 @@ I'm a young student with a lot of ambitions and projects ongoing ! I mainly work
       <br>
       <sub><i> ℹ️ Projectile Dodging game - School project</i></sub>
     </td>
+      <td align="center" width="25%">
+        <a href="https://github.com/NepNath/BTLR-v2">
+          <img src="https://opengraph.githubassets.com/1/NepNath/BTLR-v2" width="100%"/>
+        </a>
+        <br>
+        <br>
+          <img src="https://img.shields.io/badge/BTLR-V2-871aab?style=for-the-badge&labelColor=b12ade"/>
+          <img src="https://img.shields.io/badge/Status-In%20Active%20Developpement-1aab1c?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE642"/>
+          <img src="https://img.shields.io/badge/Last%20Release%20Version-0.0.0-0aa5ff?style=for-the-badge"/>
+        <br>
+        <sub><i> ℹ️ Discord bot for moderation and other un stuffs</i></sub>
+    </td>
   </tr>
 </table>
 
