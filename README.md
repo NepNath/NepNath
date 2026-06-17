@@ -26,7 +26,8 @@ I'm a young student with a lot of ambitions and projects ongoing ! I mainly work
 ## 📊 - Stats <img src="https://cdn.7tv.app/emote/01HWVAX24R00025GNME6G25QKK/1x.avif">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NepNath&theme=radical&hide_border=true" alt="GitHub Streak"/>   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NepNath&bg_color=1A1B27&color=FE428E&line=FE428E&point=A9FEF7&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NepNath&theme=shadow-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NepNath&bg_color=1A1B27&color=b434eb&line=b434eb&point=ffc2fe&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity Graph"/>
 
 </p>
 
